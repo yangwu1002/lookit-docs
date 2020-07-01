@@ -115,7 +115,7 @@ List of tutorial participants
 - Daniela Bencid (Colby College)
 - Adena Schachner (University of California, San Diego)
 - Samia Razvi (UT Dallas)
-- Yang Wu (Stanford University)
+- Yang Wu (Stanford U)
 
 .. _Github issues overview:
 
